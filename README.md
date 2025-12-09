@@ -1,5 +1,38 @@
 ## Hi there 👋
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/Deepnika/count.svg" alt="Visitor's Count" />
+</div>
+
+<!-- <img src="https://github.com/Deepnika/Deepnika/blob/main/software-developer.png" alt="Banner"> -->
+
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
+
+<hr>
+
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Deepnika&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Deepnika's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Deepnika&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Deepnika's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepnika&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Deepnika's Most Used Languages" />
+</div>
+
+<hr>
+
+
 <!--
 **Deepnika/Deepnika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
