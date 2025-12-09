@@ -4,7 +4,7 @@ I'm [**Deepnika**](https://deepnikajain.github.io), a data scientist and softwar
 
 I currently work at [**Haidi**](https://haidi.io), where I build end to end solutions for Supply Chain Planning and Operations with main expertise in Time series Forecasting at scale.
 
-Outside of work, I'm interested in following innovative research in STEM fields, mainly astrophysics, computer science and AI and sometimes neuroscience.
+Outside of work, I'm interested in following innovative research in STEM fields, mainly astrophysics, computer science and AI and sometimes a combination of neuroscience and psychology.
 
 #### Let's connect!
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />](https://linkedin.com/in/deepnika-jain)
