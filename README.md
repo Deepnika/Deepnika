@@ -7,7 +7,7 @@ I currently work at [**Haidi**](https://haidi.io), where I build end to end solu
 Outside of work, I'm interested in following innovative research in STEM fields, mainly astrophysics, computer science and AI and sometimes a combination of neuroscience and psychology. I unwind by sewing and doing random coding projects.
 
 #### Let's connect!
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />](https://linkedin.com/in/deepnika-jain)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />](mailto:jaindeepnika@gmail.com))
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/deepnika-jain)
 
 
