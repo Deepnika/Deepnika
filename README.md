@@ -11,17 +11,12 @@ Outside of work, I'm interested in following innovative research in STEM fields,
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/deepnika-jain)
 
 
-## Hi there 
+
 
 <!-- <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/Deepnika/count.svg" alt="Visitor's Count" />
 </div> -->
-
-<!-- <img src="https://github.com/Deepnika/Deepnika/blob/main/software-developer.png" alt="Banner"> -->
-
-
-## 🛠️ Languages and Tools
 
 <!-- <br>
 
@@ -31,9 +26,6 @@ Outside of work, I'm interested in following innovative research in STEM fields,
 </p>
 
 <hr> -->
-
-
-## ⚡️ Stats
 
 <!-- <br>
 
@@ -47,7 +39,6 @@ Outside of work, I'm interested in following innovative research in STEM fields,
 
 
 <!--
-**Deepnika/Deepnika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -64,19 +55,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
 - 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
 
-
 -->
-
-
-<!-- <br>
-
-<div align="center">
-  <a href="jaindeepnika@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/deepnika-jain" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<hr> -->
