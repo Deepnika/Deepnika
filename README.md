@@ -2,7 +2,7 @@
 
 I'm [**Deepnika**](https://deepnikajain.github.io), a data scientist and software engineer by profession and astrophysics researcher by education. 
 
-I currently work at [**Haidi**](https://github.com/haidi), where I build end to end solutions for Supply Chain Planning and Operations with main expertise in Time series Forecasting at scale.
+I currently work at [**Haidi**](https://haidi.io), where I build end to end solutions for Supply Chain Planning and Operations with main expertise in Time series Forecasting at scale.
 
 Outside of work, I'm interested in following innovative research in STEM fields, mainly astrophysics, computer science and AI and sometimes neuroscience.
 
